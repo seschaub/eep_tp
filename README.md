@@ -7,13 +7,13 @@ I provide here the R-code for reproducing Schaub (2021).
  
 The code is structured into <br> 
 - *'epp_master_file.R'*: the master R script <br>
-- *'epp_data_preparation.R'*: runs the data main preperation <br>
+- *'epp_data_preparation.R'*: runs the data main preparation <br>
 - *'epp_data_summary.R'*: runs the data summary <br>
 - *'epp_analysis.R'*: runs the main analysis <br>
 - *'epp_specification_charts.R'*: produces the specification charts of the paper <br>
 - *'epp_non_bootstrapped_models.R'*: runs the non-bootstrapped regression models <br>
 - *'epp_direct_effects.R'*: runs the analysis of the separate direct effects (sensu Acharya et al. (2016)) <br>
-- *'epp_alternative_time_preferece_data.R'*: runs the data preperation and analysis of the additional time preference indices/appoximations <br>
+- *'epp_alternative_time_preferece_data.R'*: runs the data preparation and analysis of the additional time preference indices/appoximations <br>
 <br>
 <br>
 
