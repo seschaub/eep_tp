@@ -1,7 +1,7 @@
 ## R-Code: Global Relationships between Time Preference and Environmental Policy Performance by Sergei Schaub
 <br>
 
-I provide here the R-code for reproducing Schaub (2021). 
+I provide here the R-code and data for reproducing Schaub (2021). 
 <br>
 <br>
  
