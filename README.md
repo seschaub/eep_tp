@@ -21,10 +21,6 @@ In order to run the analysis you need to follow the steps explained in the *'epp
 <br>
 <br>
 
-The data of the paper can be found under Schaub et al. (2021b) (https://doi.org/10.3929/ethz-b-000485215) 
-<br>
-<br>
-
 **References:**
 <br>
 
